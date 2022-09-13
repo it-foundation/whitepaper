@@ -1,3 +1,21 @@
 # Overview
 
-**WalkIt**, a walk-to-earn web3 application reward users with our native KIP-7 token, ITT,  as they move about. Through instant gratification in the form of tokens, we believe users will be wanting to move around outside more not only allowing them to exercise but also **introducing** them into the land of web3. Our reward token can be converted into SGD directly or can be used in our ITT token-only e-commerce marketplace to buy items.  With these utility for the ITT tokens to startoff, more utility will be added into it as we progress hence driving up the value of the token.
+**WalkIt**, a walk-to-earn web3 application reward users with our native KIP-7 token, ITT,  as they move about. Through instant gratification in the form of tokens, we believe users will be wanting to move around outside more not only allowing them to exercise but also **introducing** them into the land of web3.&#x20;
+
+Our reward token can be converted into SGD directly or can be used in our ITT token-only e-commerce marketplace to buy items.  With these utility for the ITT tokens to start off, more utility will be added into it as we progress hence driving up the value of the token.
+
+
+
+## Motivation
+
+
+
+**Problem statement**&#x20;
+
+"Design and create an application on the Klaytn blockchain ecosystem that would utilise Non-fungible token to encourage Singaporeans to take part in decentralised creator economy.”
+
+
+
+We will be offering a new way in which users can keep fit and be healthy by incentivising them with  rewards like no other app, the ability to earn cash straight into their bank account. Be it a 30 mins run, 3 hours jog or even a walk to school, the user will be rewarded tokens for it.&#x20;
+
+And this is all done through the use of Web3 hence also giving exposure on blockchain to users. This allows us to expand and bring in more products for users to utilise with the use of blockchain technology behind it.
