@@ -18,15 +18,15 @@ A mobile app will be developed using react native with a simple-to-use interface
 
 #### E-commerce Website
 
-A website that allows buying and selling of products will be developed to allow users to buy or sell products. The only currency allowed will be our native tokens, ITT. This serves as a significant utility to our token thus driving up the value of it
+A website that allows buying and selling of products will be developed to allow users to buy or sell products. The **only currency** allowed will be our **native tokens, ITT**. This serves as a significant utility to our token thus driving up the value of it
 
-* Website serves as a platform to buy and sell items
+* The website serves as a platform to buy and sell items
 * Lots of incentives on the website to encourage sales (i.e daily token reward raffle)
 * Lots of safety measurements to ensure safety despite blockchain being safe in nature due to its immutable nature
 
 #### Smart Contracts
 
-Smart contracts developed using solidity in the Klaytn network and deployed onto its main net cypress.&#x20;
+Smart contracts developed using solidity in the Klaytn network and deployed onto its mainnet cypress.&#x20;
 
 * NFT collection smart contract, KIP17
 * ITT token smart contract, KIP7
@@ -34,7 +34,7 @@ Smart contracts developed using solidity in the Klaytn network and deployed onto
 
 #### Liquidity Pool
 
-A liquidity pool will be developed to allow users to exchange their tokens earned into SGD. It will be funded by us with sales of the NFT collection to start off and give the ITT/SGD pair its value.&#x20;
+A liquidity pool will be created to allow users to exchange their tokens earned into SGD. It will be funded by us with sales of the NFT collection to start off and give the ITT/SGD pair its value.&#x20;
 
 * ITT/SGD pair will be created
 * Initially funded by injecting mint revenue from sales of NFT
@@ -42,7 +42,7 @@ A liquidity pool will be developed to allow users to exchange their tokens earne
 
 #### NFT Collection
 
-NFT collection will be released for public mint. Only users who hold the NFT in their wallet will be able to earn tokens using WalkIt. Following our Gen 1 release, Gen 2 NFTs will be released to cater to the higher demand by increasing the supply and so on.&#x20;
+NFT collection will be released for public mint. **Only** users who hold the NFT in their wallet will be able to earn tokens using WalkIt. Following our Gen 1 release, Gen 2 NFTs will be released to cater to the higher demand by increasing the supply and so on.&#x20;
 
 * Gen 1 NFT public mint
 * Allows users to use the WalkIt app to keep fit while earning passive income&#x20;
