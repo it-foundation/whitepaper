@@ -3,7 +3,7 @@
 #### WalkIt App
 
 * Every 1km user earns 3 tokens and starts off as Level 0 (Free tier)
-* Capped at 7km or 21 tokens a week (Level 1)
+* Capped at 7km or 21 tokens a week (Level 0)
 * Users can upgrade to higher tiers by spending their tokens weekly
 * Allows users to earn more tokens weekly
 * Anti-Exploitation safety measures
